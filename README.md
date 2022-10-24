@@ -5,7 +5,7 @@ Steps :
 2. after installing  change the version from 1 to version 2 
 3. Then install the docker window and signup the docker window before that restart the computer
 4.Now install the the gitbash for windows
-5.And type the command cvat inorder to open the cvat. the commands are as follows
+5. And type the command cvat inorder to open the cvat. the commands are as follows
 git clone https://github.com/opencv/cvat
 cd cvat
 docker-compose up -d
